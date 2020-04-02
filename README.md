@@ -1,1 +1,1 @@
-# OsugiTakuya
+# 練習用
